@@ -2,6 +2,10 @@
 
 # AzuraCast: A Self-Hosted Web Radio Manager
 
+UPDATE : 01/07/18 
+
+This build is in testing only ! For PI 3 ONLY
+
 [![Build Status](https://travis-ci.org/AzuraCast/AzuraCast.svg?branch=master)](https://travis-ci.org/AzuraCast/AzuraCast)
 [![Apache 2.0 License](https://img.shields.io/github/license/azuracast/azuracast.svg)]()
 [![Docker Pulls](https://img.shields.io/docker/pulls/azuracast/azuracast_web.svg)](https://hub.docker.com/r/azuracast/azuracast_web/)
