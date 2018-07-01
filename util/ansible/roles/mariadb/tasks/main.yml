@@ -28,8 +28,9 @@
  - name: Install MariaDB
    apt: pkg="{{ item }}" state=latest
    with_items:
-     - mariadb-server
-     - mariadb-client
+     - mysql-server 
+     - php-mysql
+     - mysql-client
 
  - name: Start and enable service
    service: name=mysql state=started enabled=yes
